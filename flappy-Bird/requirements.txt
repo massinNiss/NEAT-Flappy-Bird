@@ -1,1 +1,4 @@
-y
+numpy
+pygame
+neat-python
+PyQt5
