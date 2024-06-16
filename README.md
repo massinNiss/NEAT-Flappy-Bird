@@ -32,6 +32,7 @@ cd flappy-Bird
 ## Usage
 
   1-Navigate to the project directory.
+  
   2-Run the main game script.
        
         python3 main.py
