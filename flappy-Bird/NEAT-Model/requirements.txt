@@ -1,4 +1,0 @@
-numpy
-pygame
-neat-python
-matplotlib
