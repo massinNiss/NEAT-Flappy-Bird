@@ -2,15 +2,6 @@
 
 Welcome to the Flappy Bird Game project! This project includes the development of a Flappy Bird game using Python, Qt, and Pygame, with a login and registration interface linked to a database. Additionally, an AI model using the NEAT algorithm has been implemented to master the game.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [AI Model](#ai-model)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 
@@ -27,10 +18,23 @@ Welcome to the Flappy Bird Game project! This project includes the development o
 - PyQt5
 - Pygame
 - NEAT-Python
-- SQLite (or any other database you prefer)
+- Mysql (or any other database you prefer)
 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/flappy-bird-game.git
-cd flappy-bird-game
+git clone https://github.com/massinNiss/NEAT-Flappy-Bird.git
+cd flappy-Bird
+```
+### Install Dependencies
+    pip install -r requirements.txt
+    
+## Usage
+
+  1-Navigate to the project directory.
+  2-Run the main game script.
+       
+        python3 main.py
+
+
+
