@@ -1,7 +1,7 @@
 ![Main interface](img/login.png)
 ![game](img/171111.png)
-![AI model-gen-0](img/171408.png)
 ![AI model-gen-1](img/71338.png)
+![AI model-gen-0](img/171408.png)
 
 
 # Flappy Bird Game with AI and Database Integration
