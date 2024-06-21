@@ -1,3 +1,9 @@
+![Main interface](img/login.png)
+![game](img/171111.png)
+![AI model-gen-0](img/171408.png)
+![AI model-gen-1](img/71338.png)
+
+
 # Flappy Bird Game with AI and Database Integration
 
 Welcome to the Flappy Bird Game project! This project includes the development of a Flappy Bird game using Python, Qt, and Pygame, with a login and registration interface linked to a database. Additionally, an AI model using the NEAT algorithm has been implemented to master the game.
